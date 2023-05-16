@@ -4,3 +4,4 @@ this is the third line in development
 this is merge conflict error
 this is the fourth lin:wq
 this is the merge conflicts master
+conflict in development
