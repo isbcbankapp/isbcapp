@@ -5,3 +5,4 @@ this is merge conflict error
 this is the fourth lin:wq
 this is the merge conflicts master
 this is conflict error
+conflict in development
